@@ -12,5 +12,5 @@
 
 ## Installation
 
-* Burn the *.img file to the system SD card (TF1 slot)
+* Burn the RG280V_LGPT.img file to the system SD card (TF1 slot)
 * Put everything from the LGPT_TF2EXT.zip onto the second SD card (TF2 slot)
